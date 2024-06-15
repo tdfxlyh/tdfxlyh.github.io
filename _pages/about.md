@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-我是一名北京邮电大学计算机科学与技术专业的硕士研究生，我的github主页请访问 [https://github.com/tdfxlyh](https://github.com/tdfxlyh).
+我是一名北京邮电大学计算机科学与技术专业硕士研究生.
 
 实习经历
 ======
+1. xxx
+------
 xxx
 
 项目经历
@@ -19,6 +21,6 @@ xxx
 ------
 xxx
 
-2. xxx
+1. xxx
 ------
 xxx
