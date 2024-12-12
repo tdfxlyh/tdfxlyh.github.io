@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 I am a master's student majoring in Computer Science and Technology at Beijing University of Posts and Telecommunications.
-
-My GitHub address: https://github.com/tdfxlyh
