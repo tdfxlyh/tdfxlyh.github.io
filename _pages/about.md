@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student majoring in Computer Science and Technology at Beijing University of Posts and Telecommunications.
+I am pursuing a Master’s degree in Computer Science and Technology at Beijing University of Posts and Telecommunications.
